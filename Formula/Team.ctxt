@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Team
+comment0.text=\r\nI\ have\ read\ and\ understood\ the\ sections\ of\ plagiarism\ in\ the\ College\r\nPolicy\ on\ Assessment\ Offences\ and\ confirm\ that\ the\ work\ is\ my\ own,\ with\r\nthe\ work\ of\ others\ clearly\ acknowledged.\r\nI\ give\ my\ permission\ to\ submit\ my\ report\ to\ the\ plagiarism\ testing\ database\r\nthat\ the\ College\ is\ using\ and\ test\ it\ using\ plagiarism\ detection\ software,\r\nsearch\ engines\ or\ meta-searching\ software.
+comment1.params=team\ dr1\ dr2
+comment1.target=Team(java.lang.String,\ Driver,\ Driver)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=Driver\ getDriver1()
+comment4.params=
+comment4.target=Driver\ getDriver2()
+comment5.params=
+comment5.target=int\ getPoints()
+comment6.params=
+comment6.target=void\ seasonStart()
+numComments=7
